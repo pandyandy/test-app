@@ -1,0 +1,1235 @@
+entity,attribute,count
+food,good,25
+food,great,24
+food,hot,16
+service,slow,13
+service,fast,12
+food,cold,12
+i,love,12
+i,recommend,11
+food,fresh,10
+service,good,10
+burgers,good,10
+order,wrong,10
+service,friendly,9
+fries,cold,9
+i,disappointed,8
+service,great,7
+wait,long,7
+restaurant,clean,6
+i,like,6
+it,good,6
+service,excellent,5
+place,clean,5
+food,delicious,5
+service,bad,4
+fries,fresh,4
+i,wait,4
+customer service,horrible,4
+attitude,nasty,4
+staff,great,4
+we,disappointed,4
+time,long,4
+staff,friendly,4
+burger,good,4
+burger,great,4
+they,forgot,4
+service,terrible,4
+man,young,3
+food,wrong,3
+whataburger,delicious,3
+it,slow,3
+it,took,3
+order,get right,3
+wait,worth,3
+it,busy,3
+it,long,3
+whataburger,love,3
+location,good,3
+something,wrong,3
+customer service,bad,3
+order,correct,3
+they,slow,3
+experience,worst,3
+service,best,3
+burgers,delicious,3
+food,fast,3
+lady,nice,3
+it,wrong,3
+food,love,3
+place,great,3
+drink,large,2
+hunter,friendly,2
+i,loved,2
+fries,soggy,2
+place,grate,2
+employees,nice,2
+cashier,helpful,2
+order,mess up,2
+burger,best,2
+burger,delicious,2
+burger,cold,2
+they,improve,2
+burgers,salty,2
+employees,great,2
+bun,stale,2
+fries,no salt,2
+hunter,helpful,2
+things,good,2
+order,fresh,2
+mustard,much,2
+time,waste,2
+fries,hard,2
+i,upset,2
+drive thru,long,2
+nasty,Nasty,2
+prices,high,2
+this,good,2
+employee,rude,2
+chicken,grilled,2
+it,bad,2
+fries,hot,2
+burger,lukewarm,2
+place,recommend,2
+food,decent,2
+restaurant,good,2
+bun,dry,2
+whataburgers,worst,2
+taste,good,2
+service,horrible,2
+orders,get,2
+lunch,great,2
+whataburger,nice,2
+food,mess up,2
+location,worse,2
+experience,good,2
+whataburger,worst,2
+experience,horrible,2
+food,long,2
+service,better,2
+work,good,2
+reviews,bad,2
+orders,wrong,2
+service,awesome,2
+jalapeños,grilled,2
+they,bad,2
+job,great,2
+owner,cares,2
+food,excellent,2
+crew,great,2
+lady,spoke,2
+0,good,2
+sandwich,grilled,2
+food,correct,2
+they,fast,2
+it,sucks,2
+food,quickly,2
+it,love,2
+he,rushing,2
+it,fresh,2
+food,takes forever,2
+it,great,2
+it,gross,2
+breakfast,hot,2
+cashier,understanding,2
+restaurant,new,2
+restaurant,nice,2
+service,wonderful,2
+onion rings,perfect,2
+it,ok,2
+service,quick,2
+we,wait,2
+food,sloppy,2
+place,excellent,1
+place,Clean,1
+person,3rd,1
+personality,amazing,1
+place,dirty,1
+patty melt,care for,1
+patty melt,enjoyed,1
+pickle juice,marinated,1
+patty melt,greasy,1
+pickles,allergic,1
+people,Love,1
+place,better,1
+people,best,1
+people,agitated,1
+pickles,loaded,1
+perfectly,cooked,1
+people,great,1
+place,good,1
+people,incompetent,1
+pickup time,past,1
+people,nice,1
+people,friendly,1
+people,multiple,1
+place,fast,1
+pickup,speedy,1
+quality,terrible,1
+place,love,1
+route,closest,1
+restaurant,expensive,1
+restaurant,fast,1
+restaurant,refund,1
+restaurant,trash,1
+restaurant (implicit),clean,1
+restraunts,clean,1
+restrooms,clean,1
+right,get,1
+rio bravo,sucks,1
+roaches,dead,1
+rootbeer,add,1
+rude,extremely,1
+place,messy,1
+salad,good,1
+salad,like,1
+salad,out,1
+salt,No Salt,1
+salt and pepper,remember,1
+samantha,RUDE,1
+sandwhich,cooked,1
+sandwich,Great,1
+sandwich,biggest,1
+sandwich,egg,1
+sandwich,good,1
+restaurant,cleanest,1
+restaurant,cleaner,1
+restaurant,busy,1
+restaurant,awesome,1
+place,open,1
+place,packed,1
+place,sucks,1
+polka,better,1
+portion sizes,good,1
+portions,Disappointing,1
+price,cheaper,1
+price,reasonable,1
+price,worth,1
+prices,crazy,1
+prices,outrageous,1
+productivity,slow,1
+promotion,biggest,1
+pull,strange,1
+quality,down,1
+quality,great,1
+quality,huge letdown,1
+quality,improve,1
+quality,spit on,1
+pathogen,blood borne,1
+quickness,huge letdown,1
+reheating,good,1
+residue,leave_behind,1
+patty melt,amazing,1
+"""fast food""",SLOWEST,1
+part,horrible,1
+management,ran down,1
+managers,rude,1
+manager,unapproachable,1
+manager,sweet,1
+manager,helpful,1
+manager,gay,1
+manager,excellent,1
+management,poor,1
+maria,nasty,1
+management,great,1
+man,welcome,1
+man,take,1
+man,pleasant,1
+man,personable,1
+man,Young,1
+managers,unprofessional,1
+market,competitive,1
+part,arrive,1
+meals,free,1
+menu,unfamiliar,1
+menu,great,1
+meat,raw,1
+meat,improve,1
+meat,dry,1
+meat,better,1
+meals,cold,1
+me,sick,1
+meal,saved,1
+meal,ordered,1
+meal,medium,1
+meal,great,1
+meal,first,1
+meal,another,1
+make,quickly,1
+made,fresh,1
+lunch fare,regular,1
+large,huge,1
+line,long,1
+like most fast food establishments,smell,1
+lights,out,1
+lettuce,loaded,1
+leslie,amazing,1
+lemay,helped,1
+lane,wrong,1
+lot,empty,1
+lady,young,1
+lady,understand,1
+lady,sweet,1
+lady,had,1
+lady,friendly,1
+lady,doll,1
+line,quick,1
+line,quickly,1
+lines,full,1
+lobby,closed,1
+lobby,open,1
+location,better,1
+location,clean,1
+location,dissapoint,1
+location,great,1
+location,in disarray,1
+location,joke,1
+location,recommend,1
+location,slowest,1
+location,visit,1
+location,wonderful,1
+location,worst,1
+locations,busiest,1
+mess,crispy,1
+mess,floppy,1
+mess,soggy,1
+order,incomplete,1
+order,perfect,1
+order,pay attention,1
+order,mobile,1
+order,listen,1
+order,late,1
+order,incorrect,1
+order,hot,1
+onion rings,hot,1
+order,forgot,1
+order,forget,1
+order,fill,1
+order,colder,1
+options,list,1
+options,great,1
+order,ready,1
+order,right,1
+order,simplest,1
+order,slow,1
+order,take,1
+order,take care of,1
+ordered online,faster,1
+ordering,easy,1
+orders,missing,1
+orders,ready,1
+orders,short,1
+original,same,1
+overall,good,1
+owner,greedy,1
+pancakes,hot,1
+parents,rude,1
+parking lot,clean,1
+onion rings,nice,1
+onion rings,favorable,1
+milkshakes,Yummy,1
+morning,disaster,1
+music,Christian,1
+much-too,charge,1
+mr shempy,likes,1
+moved,fairly well,1
+mother,works,1
+mother,deaf,1
+money,waste,1
+onion rings,crisp,1
+money,cares,1
+mix,off,1
+minutes,wait,1
+minutes,took,1
+minutes,additional,1
+min,took,1
+music,blaring loud,1
+music,obnoxious,1
+music,offensive,1
+music,ridiculous,1
+mustard,oozing out,1
+mustard,overloaded,1
+my husband and i,tired,1
+my partner and i,loved,1
+near me,great,1
+needs,understanding,1
+night,late,1
+nothing,special,1
+nuggets,smaller,1
+once,good,1
+one pepper,little,1
+onion rings,amazing,1
+onion rings,burnt,1
+order,include,1
+service,fantastic,1
+sandwich,moist,1
+time,worth,1
+us,understand,1
+us,refund,1
+us,helped,1
+urgency,No,1
+update,worse,1
+update,slow,1
+unreasonable,extremely,1
+u,professional,1
+tuck,amazing,1
+trash cans,over flowing,1
+training,do better,1
+tp,good,1
+toppings,wrong,1
+toppings,had,1
+too,many,1
+us,welcome,1
+us,works,1
+usually,good,1
+wait,20 minute,1
+wants,understanding,1
+waitstaff,friendly,1
+waiting,unacceptable,1
+wait time,longest,1
+wait time,long,1
+wait,excessively long,1
+vomiting,hefty,1
+value,bad,1
+visits,great,1
+visit,nice,1
+visit,last,1
+visit,excellent,1
+veggies,old,1
+value,great,1
+tomatoes,loaded,1
+time,rough,1
+sandwich,recommend,1
+time,reasonable,1
+thing,open,1
+thing,only,1
+thing,nice,1
+thing,great,1
+they,wrong,1
+they,unique,1
+they,understaffed,1
+they,took,1
+they,take,1
+they,sufficient,1
+they,successful,1
+they,so so,1
+they,skimped out,1
+they,serve,1
+they,rude,1
+thing,same,1
+things,disparaging,1
+things,free,1
+this,unbeatable,1
+time,good,1
+time,fasted,1
+time,busy,1
+time,bad,1
+time,LONG,1
+this,worst,1
+this,tasty,1
+this,Commercial,1
+this,one time,1
+this,joke,1
+this,funny,1
+this,filling,1
+this,bad,1
+this,Garbage,1
+water,good,1
+water,refreshing,1
+water,salt water,1
+water,same,1
+y'all,mess up,1
+wrapper,soaked,1
+works,well,1
+workers,socializing,1
+workers,on phones,1
+workers,friendly,1
+worker,proactive,1
+woman,impolite,1
+whip,off-brand,1
+whatachiken,best,1
+whataburgers,subpar,1
+whataburgers,cleanest,1
+whataburger jr & fries,good,1
+whataburger drive thru,slowest,1
+whataburger,worse,1
+yall,rude,1
+yall,stingy,1
+you,No Salt,1
+you,only one,1
+🍦,Love,1
+🍔,big,1
+zadie,helpful,1
+you,waste,1
+you,wait,1
+you,try,1
+you,mess up,1
+you,add,1
+you,let know,1
+you,have,1
+you,complain,1
+you,come,1
+you,badly,1
+you,attentive,1
+whataburger,well staffed,1
+whataburger,well managed,1
+whataburger,typical,1
+we,love,1
+what,important,1
+what,fresh,1
+week,second,1
+we,understand,1
+we,stuck,1
+we,shocked,1
+we,long,1
+whata burger,new,1
+we,excited,1
+way,proper,1
+way,liked,1
+way,foul,1
+water system,taste like dirt,1
+water,sparkling,1
+what,incorrect,1
+whataburger,Great,1
+whataburger,small,1
+whataburger,fast,1
+whataburger,single,1
+whataburger,same,1
+whataburger,like,1
+whataburger,inefficient,1
+whataburger,ghetto,1
+whataburger,fully cooked,1
+whataburger,down hill,1
+whataburger,WORST,1
+whataburger,do better,1
+whataburger,disappointment,1
+whataburger,come back,1
+whataburger,clean,1
+whataburger,better,1
+whataburger,best,1
+they,remember,1
+they,re-make,1
+they,quickly,1
+staff,Friendly,1
+she,works,1
+she,wonderful,1
+she,understand,1
+she,rudely,1
+she,new,1
+she,impressed,1
+she,enjoy,1
+she,distracted,1
+she,best,1
+shakes,order,1
+shakes,incorrect,1
+shakes,good,1
+shakes,THICK,1
+shakes,Great,1
+shake,small,1
+shit,dry,1
+shit,waste,1
+sides,fresh,1
+so,depressing,1
+spoonful,small,1
+spending,like,1
+somewhere,cares,1
+something,other,1
+someone,rude,1
+so,refreshing,1
+smile,big,1
+sides,missing,1
+smile,best,1
+slow,terrible,1
+size,wrong,1
+size,actual,1
+situation,bad,1
+sign,wet,1
+shake,new,1
+shake,great,1
+shake,free,1
+selection,add,1
+service,amazing,1
+service,abismal,1
+service,BEST,1
+servers,polite,1
+server,forgot,1
+server,best,1
+seating area,blocked,1
+service,cares,1
+sausage,stingy,1
+sarah,nice,1
+sandwich,wrong,1
+sandwich,tasty,1
+sandwich,shine,1
+sandwich,regular,1
+service,awful,1
+service,courteous,1
+shake,bomb,1
+service,ok,1
+serving,ridiculous,1
+service,unorganized,1
+service,sub par,1
+service,so,1
+service,poor,1
+service,outstanding,1
+service,noticable,1
+service,decent,1
+service,know,1
+service,incredible,1
+service,faster,1
+lady,attentive,1
+service,distinguish,1
+service,disappointed,1
+spot,favorite,1
+staff,brand new,1
+they,past,1
+staff,cordial,1
+they,fixed,1
+they,fill,1
+they,distracted,1
+they,cold,1
+they,closed,1
+they,careless,1
+they,busy,1
+they,blocked,1
+these,smaller,1
+their,burgers,1
+that,unacceptable,1
+that,nasty,1
+that,love,1
+that,Sweet and spicy,1
+tenders,over breaded,1
+they,forget,1
+they,freshly made,1
+they,friendly,1
+they,mad,1
+they,out,1
+they,organized,1
+they,on point,1
+they,missed up,1
+they,make_wrong,1
+they,made it right,1
+they,let know,1
+they,full,1
+they,known for,1
+they,kind,1
+they,hiring,1
+they,hashbrowns,1
+they,give,1
+they,get right,1
+tenders,love,1
+tenders,hard,1
+tenders,dry,1
+staff,unhelpful,1
+stop,good,1
+stomach ache,horrible,1
+sticks,important,1
+staff members,happy,1
+staff members,efficient,1
+staff members,courteous,1
+staff,unfriendly,1
+stores,ran down,1
+staff,slow,1
+staff,respectable,1
+staff,nice,1
+staff,needs,1
+staff,kind,1
+staff,courteous,1
+store,clean,1
+strips,hot,1
+tenders,cold,1
+taylor,amazing,1
+tenders,bland,1
+tenders,awesome,1
+teacher,excellent,1
+tea,sweet,1
+tea,fresh,1
+tea,excellent,1
+taste,terrible,1
+stuff,ask for,1
+taquitos,late,1
+take,long,1
+tables,clean,1
+sweet tea,sour,1
+stuff,charged extra,1
+stuff,black,1
+lady,black,1
+it,vibrant,1
+ladies,respectful,1
+car,get,1
+crap,cheap,1
+cramping,bad,1
+coworkers,proactive,1
+country music,other,1
+cookie,free,1
+cookie,chocolate chip,1
+cook,quick,1
+conversation,welcomed,1
+conversation,great,1
+container,huge,1
+contact,avoid,1
+consistency,same,1
+condiments,wipe_off,1
+condiments,missing,1
+condiments,included,1
+crew,best,1
+crew,get right,1
+crew,slammed,1
+customer service,customer service,1
+customers,ignore,1
+customer service skills,excellent,1
+customer service,worst,1
+customer service,worse,1
+customer service,sucks,1
+customer service,excellent,1
+customer service,better,1
+crickets,everywhere,1
+customer,unhappy,1
+customer,fast,1
+customer,amazing,1
+curbside,non existent,1
+cuisine,traditional,1
+cuisine,Texas size,1
+complaints,take care of,1
+comments,unreasonable,1
+comments,nasty,1
+chairs,up,1
+chicken,amazing,1
+cheese burger,double,1
+cheese burger,bacon,1
+cheese,loaded,1
+cheese,burnt,1
+charm,Small town,1
+chain,good,1
+chicken,dried out,1
+catsup,spicy,1
+cashier,unfamiliar,1
+cashier,rude,1
+cashier,professional,1
+cashier,less than proficient,1
+cashier,incorrectly,1
+chicken,cold,1
+chicken,dry,1
+coming,try,1
+chocolate milk shakes,good,1
+coke,ok,1
+coffee,new,1
+coffee,loved,1
+coffe,FREE,1
+closed,early,1
+chunk,small,1
+chili,green,1
+chicken,mouth watering,1
+children,small,1
+chicken,sick,1
+chicken,serve,1
+chicken,raw,1
+chicken,on,1
+chicken,old,1
+date,enjoyable,1
+davis hwy,accurate,1
+davis hwy,efficient,1
+employees,busy,1
+employees,helpful,1
+employees,efficient,1
+employees,customer service,1
+employees,cursing,1
+employees,communicate,1
+employees,clean,1
+employees,Professional,1
+employees,kind,1
+employees,10/10,1
+employee,wouldn't provide,1
+employee,take care of,1
+employee,star,1
+emily,disrespectful,1
+em,loved,1
+employees,ignore,1
+employees,laughing,1
+earl,nice,1
+employees,smelly,1
+environment,clean,1
+environment,awful,1
+english,good,1
+employees,unkept,1
+employees,super nice,1
+employees,standing around,1
+employees,slow,1
+employees,more,1
+employees,rude,1
+employees,quick,1
+employees,promt,1
+employees,professional,1
+employees,playing,1
+employees,on edge,1
+eating,recommend,1
+dude,personable,1
+day,deliver,1
+diet,three week,1
+doors,smudge free,1
+doors,open,1
+doors,locked,1
+directions,simple,1
+directions,quick,1
+dining area,dirty,1
+diet,liquid,1
+drink,forgot,1
+did,willingness,1
+did,patience,1
+deliver,promptly,1
+dee,best,1
+deal,great,1
+day,different,1
+drink,available,1
+drink,iced,1
+dude,eloquent,1
+drive through,slowest,1
+driver,kept,1
+drive-thru,took,1
+drive-thru,slowest,1
+drive thru,takes forever,1
+drive thru,quick,1
+drive thru,bad,1
+drive through,respectful,1
+drink,wrong,1
+drive through,pleasant,1
+drive through,moved,1
+drive through,long,1
+drive through,friendly,1
+drinks,awful,1
+drink machines,wrong,1
+cashier,clueless,1
+car,clear,1
+kitchen,incorrectly,1
+"burgers, fries, onion rings",cooked,1
+attitude,had,1
+atmosphere,modern,1
+atmosphere,like,1
+atmosphere,happy,1
+atmosphere,great,1
+arrived,swiftly,1
+arg2,Bomb.com,1
+arg1,hot,1
+arg0,delicious,1
+area,clean,1
+apology,appropriate,1
+apologize,care to,1
+anything,special,1
+anything,say,1
+anything,lot,1
+attitude,professional,1
+attitude,sorry ass,1
+attitude,worst,1
+bass,loud,1
+biscuit,dry,1
+bentley,amazing,1
+be,hungry,1
+bathrooms,clean,1
+bathroom,dirty,1
+bathroom,clean,1
+basket,chicken strip,1
+attitudes,great,1
+barqs,list,1
+barqs,have,1
+barbecue,distinguish,1
+bag,correct,1
+bacon,Great,1
+babies,be,1
+anything,let know,1
+anything,different,1
+anything,complicated,1
+15 mins,took,1
+20 minutes,wait,1
+20 minutes,took,1
+20 mins,wait,1
+2 stars,generous,1
+2,better,1
+15-20m,wait,1
+11p,starting,1
+26 minute,wait,1
+10/10,recommend,1
+10 mins,past,1
+0/10,recommend,1
+0,fresh,1
+0,fast,1
+$$,worth,1
+24 hours,nice,1
+30 bucks for 2 burgers fries and drinks,expensive,1
+amount,right,1
+adequate service,wouldn't provide,1
+amount,generous,1
+always,spit on,1
+all,good,1
+alex,gracious,1
+akaida,great,1
+af,slow,1
+add,nice,1
+30 mins,get,1
+actually,exceeded,1
+access,easy,1
+ac,Cold,1
+6,delicious,1
+30 minutes,took,1
+30 mins,wait,1
+biscuit,free,1
+biscuit,old,1
+biscuits and gravy,better,1
+burger,soggy,1
+burger,sweet n spicy,1
+burger,sweet and spicy,1
+burger,sweet & spicy,1
+burger,sweet,1
+burger,stay together,1
+burger,spicy,1
+burger,smashed,1
+burger bun,soggy,1
+burger,single,1
+burger,salty,1
+burger,room temp,1
+burger,order,1
+burger,on point,1
+burger,new,1
+burger,weird,1
+burgers,Best,1
+burger,microwave,1
+burgers,likes,1
+burgers,yummy,1
+burgers,yuck,1
+burgers,oversized,1
+burgers,old,1
+burgers,ok,1
+burgers,love,1
+burgers,incorrect,1
+burgers,Yummy,1
+burgers,huge,1
+burgers,greasy,1
+burgers,excellent,1
+burgers,disappointing,1
+burgers,better,1
+burgers,best,1
+burger,mustard,1
+burger,mess up,1
+bite,quick,1
+breakfast,love,1
+bug,walking,1
+buffalo,distinguish,1
+browne,Browne,1
+britney metzger,happy,1
+bring,like,1
+breakfast,starting,1
+breakfast,fresh,1
+burger,BIG,1
+breakfast,fast,1
+breakfast,amazing,1
+bread,stale,1
+braum's,better,1
+braids,hot mess,1
+braids,blonde,1
+building,falling apart,1
+burger,Best,1
+burger,mediocre,1
+burger,dry,1
+burger,love,1
+burger,loaded,1
+burger,hot,1
+burger,had,1
+burger,funny,1
+burger,fresh,1
+burger,cheap,1
+burger,Delicious,1
+burger,bland,1
+burger,bad,1
+burger,almost no,1
+burger,added,1
+burger,Spicy,1
+burger,Great,1
+environment,great,1
+establishment,clean,1
+establishment,slow,1
+ever,take,1
+in and out,better,1
+iced coffee,good,1
+ice coffees,lighter,1
+ice coffee,nasty,1
+i,wrong,1
+i,visit,1
+i,understanding,1
+i,surprised,1
+i,sure,1
+i,shocked,1
+i,sad,1
+i,right,1
+i,ordered,1
+i,order,1
+i,no salt,1
+in-n-out,better,1
+inch,thick,1
+inside,clean,1
+it,clean,1
+it,delicious,1
+it,cringey,1
+it,creamy,1
+it,correct,1
+it,cold,1
+it,closest,1
+it,brkfst burger combo,1
+interaction,bad,1
+it,awesome,1
+it,annoying,1
+it,amazing,1
+issues,many,1
+issues,have,1
+interaction,poor,1
+i,lower,1
+i,likes,1
+i,liked,1
+here,on,1
+hwy 29,efficient,1
+hwy 29,accurate,1
+hunter,best,1
+how,insane,1
+hour,long,1
+hope,inattentive,1
+her,recommend,1
+i,allergic,1
+helped,much,1
+help,needs,1
+he,likes,1
+he,deliver,1
+he,afraid,1
+have,forgot,1
+i,added,1
+i,ask for,1
+i,have,1
+i,far,1
+i,greeted,1
+i,got,1
+i,go back,1
+i,go,1
+i,get,1
+i,full,1
+i,expect,1
+i,called,1
+i,enjoyed,1
+i,disrespected,1
+i,come back,1
+i,charge,1
+i,care for,1
+i,care,1
+it,deliver,1
+it,different,1
+it,dirty,1
+its,GOOD,1
+james,kind,1
+jalapeños,marinated,1
+jalapeños,forgot,1
+jalapeños,added,1
+izeral,polite,1
+izeral,nice,1
+items,simple,1
+janice,polite,1
+items,hot,1
+items,fresh,1
+items,feel good,1
+items,fast food,1
+it,worth,1
+it,warm,1
+janice,helpful,1
+jennifer,amazing,1
+it,upsetting,1
+karen,take care of,1
+kitchen,dirty,1
+kiosk,amazing,1
+kids meal,right,1
+kids,difficult,1
+kid,sweet,1
+ketchup,forgot,1
+karen,say,1
+job,nice,1
+karen,care to,1
+karen,avoid,1
+kaden,polite,1
+kaden,helpful,1
+joint,quality,1
+job,terrific,1
+#4,simple,1
+it,unprofessional,1
+it,disappoints,1
+it,hilarious,1
+it,like,1
+it,late,1
+it,known for,1
+it,inexcusable,1
+it,incorrectly,1
+it,hot,1
+it,hard,1
+it,new,1
+it,freshly made,1
+it,fixed,1
+it,expect,1
+it,empty,1
+it,done right,1
+it,disgusting,1
+it,loved,1
+it,nice,1
+it,unacceptable,1
+it,same,1
+it,terrible,1
+it,tasty,1
+it,stale,1
+it,smell,1
+it,sloppy,1
+it,scary,1
+it,ridiculous,1
+it,normal,1
+it,re-make,1
+it,rare,1
+it,racist,1
+it,quiet,1
+it,quick,1
+it,packed,1
+hashbrown sticks,cold,1
+hash brown,dried up,1
+handle,know,1
+food,expensive,1
+food,likes,1
+food,kept,1
+food,hot-not,1
+food,horrible,1
+food,give,1
+food,fantastic,1
+food,enjoy,1
+food,make_wrong,1
+food,done well,1
+food,done,1
+food,desirable,1
+food,clean,1
+food,charge,1
+food,bland,1
+food,lousy,1
+food,nice,1
+food,bad,1
+food,soggy,1
+food,to die for,1
+food,terrible,1
+food,tasty,1
+food,sucks,1
+food,subpar,1
+food,stepped on,1
+food,smashed,1
+food,no flavor,1
+food,slow,1
+food,salted,1
+food,quickly fixed,1
+food,overloaded,1
+food,ok,1
+food,off,1
+food,better,1
+food,awesome,1
+food,took awhile,1
+everything,freshly made,1
+expectations,lower,1
+expectations,exceeded,1
+everything,slow,1
+everything,salty,1
+everything,great,1
+everything,good,1
+everything,excellent,1
+experience,best,1
+everything,dried,1
+everything,cold,1
+everyone,unhealthy,1
+everyone,miserable,1
+everybody,welcoming,1
+everybody,nice,1
+experience,bad,1
+experience,miserable,1
+food,at the front,1
+fingernails,nasty,1
+food,amazing,1
+food,Cold,1
+floors,clean,1
+floor,flooded,1
+flies,reassuring,1
+flavor,little,1
+feeling,warm,1
+experience,positive,1
+fanta,good,1
+fanta,flat,1
+fact,awesome,1
+experiences,bad,1
+experience,satisfactory,1
+experience,same,1
+food,to live for,1
+food,typical,1
+hand full,nice,1
+girls,nice,1
+gravy,watery,1
+gravy,warm,1
+gravy,include,1
+gravy,extra,1
+gloves,same,1
+girls,sweet,1
+girlfriend,pregnant,1
+guadalupe,charge,1
+girlfriend,happy,1
+girl,nice,1
+girl,mess up,1
+girl,cute,1
+girl,apologetic,1
+girl,SWEETEST,1
+guacamole,missing,1
+guadalupe,charged extra,1
+get,care,1
+hair,dark black,1
+hamburger,single,1
+hamburger,same,1
+hamburger,nothing,1
+hamburger,hard,1
+hamburger,fresh,1
+half,got,1
+hair,blonde or gray,1
+guadalupe,listen,1
+guy,professional,1
+guy,patient,1
+guy,nice,1
+guy,great,1
+guy,awesome,1
+guadalupe,pay attention,1
+getting,fast,1
+gentleman,rude,1
+food,wait,1
+fountain drinks,uncarbornated,1
+fries,dried up,1
+fries,done,1
+fries,better,1
+fries,average,1
+fries,OK,1
+fries,No Salt,1
+fountain drinks,flat,1
+fries,likes,1
+forever,wait,1
+food order,completed,1
+food and service,great,1
+food,well put together,1
+food,weired,1
+food,warm,1
+fries,good,1
+fries,limp,1
+generation,horrible,1
+fries,salt less,1
+gavin,amazing,1
+fries,warmer,1
+fries,undercooked,1
+fries,sitting awhile,1
+fries,saved,1
+fries,salted,1
+fries,room temp,1
+fries,love,1
+fries,raw,1
+fries,no taste,1
+fries,nasty,1
+fries,missing,1
+fries,missed up,1
+fries,lukewarm,1
+💯,be,1
