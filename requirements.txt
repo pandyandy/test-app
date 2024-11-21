@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+matplotlib
+networkx
+numpy
+pydeck
+keboola-streamlit
+openai
+kbcstorage
+streamlit-option-menu
