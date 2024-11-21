@@ -422,7 +422,7 @@ data = read_data('out.c-257-data-model.MERGED_DATA_FINAL') #pd.read_csv('review_
 sentences = read_data('out.c-257-data-model.REVIEW_SENTENCE')
 
 # Read and process attribute data
-attributes = pd.read_csv('/data/in/tables/relations.csv') #'/data/in/tables/relations.csv')
+attributes = pd.read_csv('relations.csv') #'/data/in/tables/relations.csv')
 attributes['entity'] = attributes['entity'].replace('burgers', 'burger')
 pronouns_to_remove = ['i', 'you', 'she', 'he', 'it', 'we', 'they', 'I', 'You', 'She', 'He', 'It', 'We', 'They']
 attributes = attributes[~attributes['entity'].isin(pronouns_to_remove)]
