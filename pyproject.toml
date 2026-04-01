@@ -1,0 +1,7 @@
+[[tool.uv.index]]
+url = "https://test.pypi.org/simple/"
+explicit = true
+name = "test-pypi"
+
+[tool.uv.sources]
+keboola-storage = { index = "test-pypi" }
